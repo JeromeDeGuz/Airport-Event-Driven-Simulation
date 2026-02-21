@@ -62,7 +62,7 @@ clang++ *.cpp -std=c++11 -o a.out
 
 ```
 
-## 📊 Learning Outcomes & Achievements
+## Learning Outcomes & Achievements
 
 This project was built to demonstrate proficiency in core Computer Science principles, including:
 
