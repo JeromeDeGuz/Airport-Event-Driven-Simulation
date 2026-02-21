@@ -8,47 +8,26 @@ The simulation manages complex aircraft transitions, including landings and take
 
 ### Key Simulation Logic
 
-* 
-**Priority-Based Scheduling:** Aircraft in the air are prioritized over those on the ground to conserve fuel and manage emergency holding patterns.
+* **Priority-Based Scheduling:** Aircraft in the air are prioritized over those on the ground to conserve fuel and manage emergency holding patterns.
 
-
-* 
-**Wake Turbulence Modeling:** The system enforces safety intervals based on aircraft weight categories to account for wake turbulence dissipation:
-
+* **Wake Turbulence Modeling:** The system enforces safety intervals based on aircraft weight categories to account for wake turbulence dissipation:
 
 * **Small:** 0 mins | **Large:** 1 min | **Heavy:** 2 mins | **Super:** 3 mins.
 
-
-
-
-* 
-**Operational Timings:** Standardized approach times (2 minutes) and runway occupancy times (1 minute) are factored into every event.
-
+* **Operational Timings:** Standardized approach times (2 minutes) and runway occupancy times (1 minute) are factored into every event.
 
 
 ## 🛠️ Technical Stack & Architecture
 
-* 
-**Language:** C++11.
+* **Language:** C++11.
 
+* **Methodology:** Object-Oriented Programming (OOP) with a focus on polymorphism, abstract classes, and class hierarchies.
 
-* 
-**Methodology:** Object-Oriented Programming (OOP) with a focus on polymorphism, abstract classes, and class hierarchies.
+* **Memory Management:** Implemented custom destructors to ensure manual dynamic memory management and zero leaks.
 
+* **Data Structures:** * **Custom Priority Queue:** A completely from-scratch, generic linked structure used to maintain and process events chronologically.
 
-* 
-**Memory Management:** Implemented custom destructors to ensure manual dynamic memory management and zero leaks.
-
-
-* 
-**Data Structures:** * **Custom Priority Queue:** A completely from-scratch, generic linked structure used to maintain and process events chronologically.
-
-
-* 
-**Event-Driven Model:** Manages five distinct event subtypes: *Request Landing, Request Takeoff, Landing, Takeoff,* and *Complete*.
-
-
-
+* **Event-Driven Model:** Manages five distinct event subtypes: *Request Landing, Request Takeoff, Landing, Takeoff,* and *Complete*.
 
 
 ## Getting Started
@@ -57,7 +36,6 @@ The simulation manages complex aircraft transitions, including landings and take
 
 * Clang++ compiler with C++11 support.
 * Aviary-compatible environment.
-
 
 
 ### Compilation and Execution
@@ -88,13 +66,8 @@ clang++ *.cpp -std=c++11 -o a.out
 
 This project was built to demonstrate proficiency in core Computer Science principles, including:
 
-* 
-**Separate Compilation:** Utilizing header and source files for modular, scalable code.
+* **Separate Compilation:** Utilizing header and source files for modular, scalable code.
 
+* **Polymorphic Dispatch:** Using dynamic binding to handle multiple related event classes through a single interface.
 
-* 
-**Polymorphic Dispatch:** Using dynamic binding to handle multiple related event classes through a single interface.
-
-
-* 
-**Efficient I/O:** Processing large datasets one arrival at a time to minimize memory overhead.
+* **Efficient I/O:** Processing large datasets one arrival at a time to minimize memory overhead.
