@@ -1,0 +1,63 @@
+Simulation begins...
+Time: 1 -> Delta 1243 (1) heavy ready for takeoff
+Time: 1 -> Delta 1243 (1) heavy cleared for takeoff on runway 1. (time req. for takeoff: 3)
+Time: 1 -> AirCanada 973 (2) heavy ready for takeoff
+Time: 4 -> Delta 1243 (1) heavy has cleared the runway 1.
+Time: 4 -> AirCanada 973 (2) heavy cleared for takeoff on runway 1. (time req. for takeoff: 3)
+Time: 5 -> Emirates 1598 (3) super inbound for landing.
+Time: 7 -> AirCanada 973 (2) heavy has cleared the runway 1.
+Time: 7 -> Emirates 1598 (3) super cleared for landing on runway 1. (time req. for landing: 6)
+Time: 8 -> Sunwing 556 (4) large inbound for landing.
+Time: 10 -> Volaris 401 (5) small ready for takeoff
+Time: 13 -> Emirates 1598 (3) super has cleared the runway 1.
+Time: 13 -> Sunwing 556 (4) large cleared for landing on runway 1. (time req. for landing: 4)
+Time: 15 -> AirTransat 225 (6) large inbound for landing.
+Time: 17 -> Sunwing 556 (4) large has cleared the runway 1.
+Time: 17 -> AirTransat 225 (6) large cleared for landing on runway 1. (time req. for landing: 4)
+Time: 18 -> Delta 5225 (7) heavy ready for takeoff
+Time: 18 -> UPS 785 (8) super ready for takeoff
+Time: 18 -> Southwest 3355 (9) heavy inbound for landing.
+Time: 21 -> AirTransat 225 (6) large has cleared the runway 1.
+Time: 21 -> Southwest 3355 (9) heavy cleared for landing on runway 1. (time req. for landing: 5)
+Time: 26 -> Southwest 3355 (9) heavy has cleared the runway 1.
+Time: 26 -> Volaris 401 (5) small cleared for takeoff on runway 1. (time req. for takeoff: 1)
+Time: 27 -> Volaris 401 (5) small has cleared the runway 1.
+Time: 27 -> Delta 5225 (7) heavy cleared for takeoff on runway 1. (time req. for takeoff: 3)
+Time: 30 -> Delta 5225 (7) heavy has cleared the runway 1.
+Time: 30 -> UPS 785 (8) super cleared for takeoff on runway 1. (time req. for takeoff: 4)
+Time: 34 -> UPS 785 (8) super has cleared the runway 1.
+
+#######################
+The simulation has ended.
+The number of runways was 1.
+The total amount of time wasted because runways were not avaiable was 52 minutes.
+#######################
+
+Simulation begins...
+Time: 1 -> Delta 1243 (1) heavy ready for takeoff
+Time: 1 -> Delta 1243 (1) heavy cleared for takeoff on runway 1. (time req. for takeoff: 3)
+Time: 1 -> AirCanada 973 (2) heavy ready for takeoff
+Time: 1 -> AirCanada 973 (2) heavy cleared for takeoff on runway 2. (time req. for takeoff: 3)
+Time: 4 -> Delta 1243 (1) heavy has cleared the runway 1.
+Time: 4 -> AirCanada 973 (2) heavy has cleared the runway 2.
+Time: 5 -> Emirates 1598 (3) super inbound for landing.
+Time: 5 -> Emirates 1598 (3) super cleared for landing on runway 1. (time req. for landing: 6)
+Time: 8 -> Sunwing 556 (4) large inbound for landing.
+Time: 8 -> Sunwing 556 (4) large cleared for landing on runway 2. (time req. for landing: 4)
+Time: 10 -> Volaris 401 (5) small ready for takeoff
+Time: 11 -> Emirates 1598 (3) super has cleared the runway 1.
+Time: 11 -> Volaris 401 (5) small cleared for takeoff on runway 1. (time req. for takeoff: 1)
+Time: 12 -> Sunwing 556 (4) large has cleared the runway 2.
+Time: 12 -> Volaris 401 (5) small has cleared the runway 1.
+Time: 15 -> AirTransat 225 (6) large inbound for landing.
+Time: 15 -> AirTransat 225 (6) large cleared for landing on runway 1. (time req. for landing: 4)
+Time: 18 -> Delta 5225 (7) heavy ready for takeoff
+Time: 18 -> Delta 5225 (7) heavy cleared for takeoff on runway 2. (time req. for takeoff: 3)
+Time: 18 -> UPS 785 (8) super ready for takeoff
+Time: 18 -> Southwest 3355 (9) heavy inbound for landing.
+Time: 19 -> AirTransat 225 (6) large has cleared the runway 1.
+Time: 19 -> Southwest 3355 (9) heavy cleared for landing on runway 1. (time req. for landing: 5)
+Time: 21 -> Delta 5225 (7) heavy has cleared the runway 2.
+Time: 21 -> UPS 785 (8) super cleared for takeoff on runway 2. (time req. for takeoff: 4)
+Time: 24 -> Southwest 3355 (9) heavy has cleared the runway 1.
+Time: 25 -> UPS 785 (8) super has cleared the runway 2.

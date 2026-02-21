@@ -1,0 +1,69 @@
+Simulation begins...
+TIME: 1 -> Delta 1243 (1) heavy ready for takeoff.
+TIME: 1 -> Delta 1243 (1) heavy cleared for takeoff on runway 1. (time req. for takeoff: 3)
+TIME: 1 -> AirCanada 973 (2) heavy ready for takeoff.
+TIME: 4 -> Delta 1243 (1) heavy has cleared the runway 1.
+TIME: 4 -> AirCanada 973 (2) heavy cleared for takeoff on runway 1. (time req. for takeoff: 3)
+TIME: 5 -> Emirates 1598 (3) super inbound for landing.
+TIME: 7 -> AirCanada 973 (2) heavy has cleared the runway 1.
+TIME: 7 -> Emirates 1598 (3) super cleared for landing on runway 1. (time req. for landing: 6)
+TIME: 8 -> Sunwing 556 (4) large inbound for landing.
+TIME: 10 -> Volaris 401 (5) small ready for takeoff.
+TIME: 13 -> Emirates 1598 (3) super has cleared the runway 1.
+TIME: 13 -> Sunwing 556 (4) large cleared for landing on runway 1. (time req. for landing: 4)
+TIME: 15 -> AirTransat 225 (6) large inbound for landing.
+TIME: 17 -> Sunwing 556 (4) large has cleared the runway 1.
+TIME: 17 -> AirTransat 225 (6) large cleared for landing on runway 1. (time req. for landing: 4)
+TIME: 18 -> Delta 5225 (7) heavy ready for takeoff.
+TIME: 18 -> UPS 785 (8) super ready for takeoff.
+TIME: 18 -> Southwest 3355 (9) heavy inbound for landing.
+TIME: 21 -> AirTransat 225 (6) large has cleared the runway 1.
+TIME: 21 -> Southwest 3355 (9) heavy cleared for landing on runway 1. (time req. for landing: 5)
+TIME: 26 -> Southwest 3355 (9) heavy has cleared the runway 1.
+TIME: 26 -> Volaris 401 (5) small cleared for takeoff on runway 1. (time req. for takeoff: 1)
+TIME: 27 -> Volaris 401 (5) small has cleared the runway 1.
+TIME: 27 -> Delta 5225 (7) heavy cleared for takeoff on runway 1. (time req. for takeoff: 3)
+TIME: 30 -> Delta 5225 (7) heavy has cleared the runway 1.
+TIME: 30 -> UPS 785 (8) super cleared for takeoff on runway 1. (time req. for takeoff: 4)
+TIME: 34 -> UPS 785 (8) super has cleared the runway 1.
+
+#######################
+The simulation has ended.
+The number of runways was 1.
+The total amount of time wasted because runways were not available was 52 minutes.
+#######################
+
+Simulation begins...
+TIME: 1 -> Delta 1243 (1) heavy ready for takeoff.
+TIME: 1 -> Delta 1243 (1) heavy cleared for takeoff on runway 1. (time req. for takeoff: 3)
+TIME: 1 -> AirCanada 973 (2) heavy ready for takeoff.
+TIME: 1 -> AirCanada 973 (2) heavy cleared for takeoff on runway 2. (time req. for takeoff: 3)
+TIME: 4 -> Delta 1243 (1) heavy has cleared the runway 1.
+TIME: 4 -> AirCanada 973 (2) heavy has cleared the runway 2.
+TIME: 5 -> Emirates 1598 (3) super inbound for landing.
+TIME: 5 -> Emirates 1598 (3) super cleared for landing on runway 1. (time req. for landing: 6)
+TIME: 8 -> Sunwing 556 (4) large inbound for landing.
+TIME: 8 -> Sunwing 556 (4) large cleared for landing on runway 2. (time req. for landing: 4)
+TIME: 10 -> Volaris 401 (5) small ready for takeoff.
+TIME: 11 -> Emirates 1598 (3) super has cleared the runway 1.
+TIME: 11 -> Volaris 401 (5) small cleared for takeoff on runway 1. (time req. for takeoff: 1)
+TIME: 12 -> Sunwing 556 (4) large has cleared the runway 2.
+TIME: 12 -> Volaris 401 (5) small has cleared the runway 1.
+TIME: 15 -> AirTransat 225 (6) large inbound for landing.
+TIME: 15 -> AirTransat 225 (6) large cleared for landing on runway 1. (time req. for landing: 4)
+TIME: 18 -> Delta 5225 (7) heavy ready for takeoff.
+TIME: 18 -> Delta 5225 (7) heavy cleared for takeoff on runway 2. (time req. for takeoff: 3)
+TIME: 18 -> UPS 785 (8) super ready for takeoff.
+TIME: 18 -> Southwest 3355 (9) heavy inbound for landing.
+TIME: 19 -> AirTransat 225 (6) large has cleared the runway 1.
+TIME: 19 -> Southwest 3355 (9) heavy cleared for landing on runway 1. (time req. for landing: 5)
+TIME: 21 -> Delta 5225 (7) heavy has cleared the runway 2.
+TIME: 21 -> UPS 785 (8) super cleared for takeoff on runway 2. (time req. for takeoff: 4)
+TIME: 24 -> Southwest 3355 (9) heavy has cleared the runway 1.
+TIME: 25 -> UPS 785 (8) super has cleared the runway 2.
+
+#######################
+The simulation has ended.
+The number of runways was 2.
+The total amount of time wasted because runways were not available was 5 minutes.
+#######################
